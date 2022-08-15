@@ -51,14 +51,6 @@ function PageTransitions(){
     list.forEach((item)=>
     item.addEventListener('click', activeLink));
 
-    //Toggle Lang
-    // const langBtn = document.querySelector('.lang-btn');
-    // langBtn.addEventListener('click', ()=>{
-    //     [].forEach.call(document.querySelectorAll('.en'), function (el) {
-    //         el.style.visibility = 'hidden';
-    //       });
-    // })
-
 }
 
 
