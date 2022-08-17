@@ -362,6 +362,14 @@ section {
   transform: scale(1);
 }
 
+.amigos{
+  text-align: center;
+}
+
+.amigos img{
+  border-radius: 50px;
+}
+
 .blogs {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
